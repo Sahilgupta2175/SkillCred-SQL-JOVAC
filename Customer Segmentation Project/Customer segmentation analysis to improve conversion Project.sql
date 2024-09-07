@@ -236,9 +236,7 @@ WHERE
 	cohort_month <= NOW() - INTERVAL '12 MONTHS'
 ORDER BY
 	1,
-	2;
-
--- https://claude.ai/chat/1fb353e4-a1e1-4d5b-a863-46b425f38908
+	2;
    
 -- SUMMARY :- 
 
